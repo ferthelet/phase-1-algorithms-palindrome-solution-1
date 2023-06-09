@@ -2,8 +2,8 @@
 
 ## Learning Goals
 
-- Practice algorithmic problem solving
-- Evaluate multiple solutions to a problem
+- Practice algorithmic problem solving.
+- Evaluate multiple solutions to a problem.
 
 ## Introduction
 
